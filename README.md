@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started
 ![Weather App](image.png)
 
 ## Guide to add open weather API key:
