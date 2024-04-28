@@ -1,0 +1,13 @@
+:root {
+  --white: #ffffff;
+  --bg-primary: #000000;
+  --bg-secondary: linear-gradient(145deg, #2f2e2e, #282727);
+  --bg-tertiary: linear-gradient(145deg, #333333, #2b2b2b);
+  --animated-bg: linear-gradient(145deg, #333333, #2b2b2b);
+}
+
+html {
+  font-size: 16px;
+  min-height: 100vh;
+  background-color: var(--bg-primary);
+}
